@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    let mut spaces = "   ";
+    spaces = spaces.length();
+    println!("The value of x is: {}", x);
 }
