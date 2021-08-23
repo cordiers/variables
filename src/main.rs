@@ -1,5 +1,6 @@
 fn main() {
     let mut spaces = "   ";
-    spaces = spaces.length();
-    println!("The value of x is: {}", x);
+    println!("The value of x is: {}", spaces);
+    spaces = "spaces.length()";
+    println!("The value of x is: {}", spaces);
 }
