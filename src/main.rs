@@ -1,4 +1,5 @@
 fn main() {
+    // test
     let tup:(i32,f64,i32)=(14,13.0,12);
     let (x, y, z)=tup;
 
